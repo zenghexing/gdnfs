@@ -1,2 +1,3 @@
+https://img.shields.io/badge/<GDNFS>-<ver-alpha>-<green>
 # gdnfs
-generic decentralization net fs 
+generic decentralized net file system
