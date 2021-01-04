@@ -1,3 +1,2 @@
-https://img.shields.io/badge/gdnfs-version0.1-green
-# gdnfs
+# gdnfs ![](https://img.shields.io/badge/gdnfs-alpha-green)
 generic decentralized net file system
